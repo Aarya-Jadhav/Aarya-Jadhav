@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Aarya-Jadhav
-- 👀 I’m interested in Coding duhhh. Also mujhe singing aur dancing ka bohot shauq hai :)
-- 🌱 I’m currently learning Python
-- 📫 How to reach me - My insta id is @aaryayyyyy_18
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: For coding you need brain but i really like romcoms for which you dont need brains :>
+👋 Hey there! I'm Aarya Jadhav
+👀 I'm into coding (duhhh). Also, mujhe singing aur dancing ka bohot shauq hai 🎤💃
+🌱 I’ve learned the basics of Web Development and currently diving into Excel, SQL, and Power BI 📊
+📫 Reach me on Instagram: @aaryayyyyy_18
+😄 Pronouns: She/Her
+⚡ Fun fact: Coding needs brains, but I really enjoy romcoms — for which you don’t need any! 💻💘
 
 <!---
 Aarya-Jadhav/Aarya-Jadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
